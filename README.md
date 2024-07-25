@@ -1,4 +1,4 @@
-# bank-customer-churn-prediction
+# Bank Costumer Churn Prediction
 
 ## Introduction
 This simple project aims to predict churn in bank customers. This project was created using Jupyter Notebook (.ipynb). The dataset used in this project is Bank-customer-churn-prediction.csv, the dataset can be seen in the "dataset" directory in this project. Dataset taken from Kaggle at the following link: https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction. This dataset will be train data and test data for machine learning with the Random Forest Classifier model. As a result, this model can predict with an accuracy of up to 87%.
@@ -16,7 +16,7 @@ This simple project aims to predict churn in bank customers. This project was cr
 4.Result
 
 
-## Licence
+## License
 This project is licensed under the MIT License.
 
 ### Data Set License
